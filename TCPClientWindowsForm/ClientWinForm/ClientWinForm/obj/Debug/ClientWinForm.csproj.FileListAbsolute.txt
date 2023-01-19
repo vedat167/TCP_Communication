@@ -1,0 +1,20 @@
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\bin\Debug\ClientWinForm.exe
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\bin\Debug\ClientWinForm.pdb
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.csprojAssemblyReference.cache
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.Form1.resources
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.Properties.Resources.resources
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.csproj.GenerateResource.cache
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.csproj.CoreCompileInputs.cache
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.exe
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.pdb
+U:\BilgiIslem\Yazılım_Projeler\TCP\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.exe
+U:\BilgiIslem\Yazılım_Projeler\TCP\TCP Haberleşme\TCPClientWinForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.pdb
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\bin\Debug\ClientWinForm.exe
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\bin\Debug\ClientWinForm.pdb
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.Form1.resources
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.Properties.Resources.resources
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.csproj.GenerateResource.cache
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.csproj.CoreCompileInputs.cache
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.exe
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.pdb
+C:\Users\vozturk\Desktop\YAZILIM PROJELER\TCP Haberleşme\TCPClientWindowsForm\ClientWinForm\ClientWinForm\obj\Debug\ClientWinForm.csprojAssemblyReference.cache

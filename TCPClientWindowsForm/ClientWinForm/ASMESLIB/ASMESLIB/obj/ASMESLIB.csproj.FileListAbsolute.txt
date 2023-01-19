@@ -1,0 +1,15 @@
+D:\Halil\Projeler\Makaleler\ASMES\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.dll
+D:\Halil\Projeler\Makaleler\ASMES\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.pdb
+D:\Halil\Projeler\Makaleler\ASMES\ASMESLIB\ASMESLIB\obj\Debug\ResolveAssemblyReference.cache
+D:\Halil\Projeler\Makaleler\ASMES\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.dll
+D:\Halil\Projeler\Makaleler\ASMES\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.pdb
+C:\Documents and Settings\Administrator\Desktop\ASMES\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.dll
+C:\Documents and Settings\Administrator\Desktop\ASMES\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.pdb
+C:\Documents and Settings\Administrator\Desktop\ASMES\ASMESLIB\ASMESLIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ASMES\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.dll
+C:\Documents and Settings\Administrator\Desktop\ASMES\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.pdb
+D:\Halil\Projeler\Makaleler\ASMES\Proje\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.dll
+D:\Halil\Projeler\Makaleler\ASMES\Proje\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.pdb
+D:\Halil\Projeler\Makaleler\ASMES\Proje\ASMESLIB\ASMESLIB\obj\Debug\ResolveAssemblyReference.cache
+D:\Halil\Projeler\Makaleler\ASMES\Proje\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.dll
+D:\Halil\Projeler\Makaleler\ASMES\Proje\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.pdb

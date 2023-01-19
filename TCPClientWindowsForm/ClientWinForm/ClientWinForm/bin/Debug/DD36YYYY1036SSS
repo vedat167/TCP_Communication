@@ -1,0 +1,212 @@
+fo: dg_support_os> OS Info: Major<10> Minor<0> SP<0>
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: install agent for device control
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: DLP Endpoint was not installed before! Will not clear up!
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: UninstallExistingTMDLP Successfully!
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       remove(C:\Windows\system32\Logger.cfg)
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: Installing 64bit agent.
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: Driver source directory: C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\drivers
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: Driver destination directory: C:\Windows\system32\drivers
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: 64-bit agent source directory: C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: 64-bit agent destination directory: C:\Windows\system32\dgagent
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: 32-bit agent source directory: C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\win32
+(04272) 10/11/2018 12:54:28.066 Dtool> Info: 32-bit agent destination directory: C:\Windows\SysWOW64\dgagent
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\american-name.txt) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\ApiHookStub.x64.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\Archive_vsapi.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\browser_pattern.xml) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\ch_pattern.xml) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\cme.conf) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\cme_vxe_dll.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\converter.pro) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\CustomDlg.xml) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\DataDiscovery.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dbghelp.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\discovery.cfg) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\discovery.pro) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpconverter_dt.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\DlpDrvIf.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpexaddin.x64.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlphook.x64.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\dlpwpdfltr.cat) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\dlpwpdfltr.inf) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\dlpwpdfltr.sys) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Vista.msu) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Win2k-WinXP-Win2k3.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-Vista.msu) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-WinXP-Srv03.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB_1.9.msu) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsa.cfg) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsa.ctl) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsa.pol) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsa.pro) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsagent.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsaver.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsaverreg.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dsa_setting_default.xml) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dtengine64.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\dtoop.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\etyv) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\FEAPI.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\FECmd.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\FileBackupRepo\System32\drivers\dlpnetfltr.sys) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\FileBackupRepo\System32\drivers\saknet.sys) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\icudt48.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\icuin48.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\icuuc48.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetFtpParser.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetHttpParser.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetImAimParser.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetImMsnParser.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetImYmsgParser.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetRAPIParser.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetSmtpParser.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\inetSyncFile.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\listDeviceInfo.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\Microsoft.VC80.CRT.manifest) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\msvcm80.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\msvcp80.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\msvcr80.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\ShowMix.xml) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\ShowMsg.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\spanish-name.txt) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\tmdlpe.ptn) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\TmDSMEngine.dll) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\tmpeEnum.xml) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       cannot remove(C:\Windows\system32\dgagent\UpgradeCleaner.exe) - WinErrCode:(3).
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\american-name.txt)to(C:\Windows\system32\dgagent\american-name.txt)
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\ApiHookStub.x64.dll)to(C:\Windows\system32\dgagent\ApiHookStub.x64.dll)
+(04272) 10/11/2018 12:54:28.066 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\Archive_vsapi.dll)to(C:\Windows\system32\dgagent\Archive_vsapi.dll)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\browser_pattern.xml)to(C:\Windows\system32\dgagent\browser_pattern.xml)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\ch_pattern.xml)to(C:\Windows\system32\dgagent\ch_pattern.xml)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\cme.conf)to(C:\Windows\system32\dgagent\cme.conf)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\cme_vxe_dll.dll)to(C:\Windows\system32\dgagent\cme_vxe_dll.dll)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\converter.pro)to(C:\Windows\system32\dgagent\converter.pro)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\CustomDlg.xml)to(C:\Windows\system32\dgagent\CustomDlg.xml)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\DataDiscovery.exe)to(C:\Windows\system32\dgagent\DataDiscovery.exe)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dbghelp.dll)to(C:\Windows\system32\dgagent\dbghelp.dll)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\discovery.cfg)to(C:\Windows\system32\dgagent\discovery.cfg)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\discovery.pro)to(C:\Windows\system32\dgagent\discovery.pro)
+(04272) 10/11/2018 12:54:28.081 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpconverter_dt.dll)to(C:\Windows\system32\dgagent\dlpconverter_dt.dll)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\DlpDrvIf.dll)to(C:\Windows\system32\dgagent\DlpDrvIf.dll)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpexaddin.x64.dll)to(C:\Windows\system32\dgagent\dlpexaddin.x64.dll)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlphook.x64.dll)to(C:\Windows\system32\dgagent\dlphook.x64.dll)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\dlpwpdfltr.cat)to(C:\Windows\system32\dgagent\dlpwpdfltr\dlpwpdfltr.cat)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\dlpwpdfltr.inf)to(C:\Windows\system32\dgagent\dlpwpdfltr\dlpwpdfltr.inf)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\dlpwpdfltr.sys)to(C:\Windows\system32\dgagent\dlpwpdfltr\dlpwpdfltr.sys)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Vista.msu)to(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Vista.msu)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Win2k-WinXP-Win2k3.exe)to(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Win2k-WinXP-Win2k3.exe)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-Vista.msu)to(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-Vista.msu)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-WinXP-Srv03.exe)to(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-WinXP-Srv03.exe)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB.exe)to(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB.exe)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB_1.9.msu)to(C:\Windows\system32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB_1.9.msu)
+(04272) 10/11/2018 12:54:28.097 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsa.cfg)to(C:\Windows\system32\dgagent\dsa.cfg)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsa.ctl)to(C:\Windows\system32\dgagent\dsa.ctl)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsa.pol)to(C:\Windows\system32\dgagent\dsa.pol)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsa.pro)to(C:\Windows\system32\dgagent\dsa.pro)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsagent.exe)to(C:\Windows\system32\dgagent\dsagent.exe)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsaver.dll)to(C:\Windows\system32\dgagent\dsaver.dll)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsaverreg.dll)to(C:\Windows\system32\dgagent\dsaverreg.dll)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dsa_setting_default.xml)to(C:\Windows\system32\dgagent\dsa_setting_default.xml)
+(04272) 10/11/2018 12:54:28.112 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dtengine64.dll)to(C:\Windows\system32\dgagent\dtengine64.dll)
+(04272) 10/11/2018 12:54:28.128 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\dtoop.exe)to(C:\Windows\system32\dgagent\dtoop.exe)
+(04272) 10/11/2018 12:54:28.128 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\etyv)to(C:\Windows\system32\dgagent\etyv)
+(04272) 10/11/2018 12:54:28.128 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\FEAPI.dll)to(C:\Windows\system32\dgagent\FEAPI.dll)
+(04272) 10/11/2018 12:54:28.128 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\FECmd.exe)to(C:\Windows\system32\dgagent\FECmd.exe)
+(04272) 10/11/2018 12:54:28.128 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\FileBackupRepo\System32\drivers\dlpnetfltr.sys)to(C:\Windows\system32\dgagent\FileBackupRepo\System32\drivers\dlpnetfltr.sys)
+(04272) 10/11/2018 12:54:28.128 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\FileBackupRepo\System32\drivers\saknet.sys)to(C:\Windows\system32\dgagent\FileBackupRepo\System32\drivers\saknet.sys)
+(04272) 10/11/2018 12:54:28.128 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\icudt48.dll)to(C:\Windows\system32\dgagent\icudt48.dll)
+(04272) 10/11/2018 12:54:28.144 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\icuin48.dll)to(C:\Windows\system32\dgagent\icuin48.dll)
+(04272) 10/11/2018 12:54:28.144 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\icuuc48.dll)to(C:\Windows\system32\dgagent\icuuc48.dll)
+(04272) 10/11/2018 12:54:28.144 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetFtpParser.dll)to(C:\Windows\system32\dgagent\inetFtpParser.dll)
+(04272) 10/11/2018 12:54:28.144 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetHttpParser.dll)to(C:\Windows\system32\dgagent\inetHttpParser.dll)
+(04272) 10/11/2018 12:54:28.144 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetImAimParser.dll)to(C:\Windows\system32\dgagent\inetImAimParser.dll)
+(04272) 10/11/2018 12:54:28.144 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetImMsnParser.dll)to(C:\Windows\system32\dgagent\inetImMsnParser.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetImYmsgParser.dll)to(C:\Windows\system32\dgagent\inetImYmsgParser.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetRAPIParser.dll)to(C:\Windows\system32\dgagent\inetRAPIParser.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetSmtpParser.dll)to(C:\Windows\system32\dgagent\inetSmtpParser.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\inetSyncFile.dll)to(C:\Windows\system32\dgagent\inetSyncFile.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\listDeviceInfo.exe)to(C:\Windows\system32\dgagent\listDeviceInfo.exe)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\Microsoft.VC80.CRT\Microsoft.VC80.CRT.manifest)to(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\Microsoft.VC80.CRT.manifest)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\Microsoft.VC80.CRT\msvcm80.dll)to(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\msvcm80.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\Microsoft.VC80.CRT\msvcp80.dll)to(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\msvcp80.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\Microsoft.VC80.CRT\msvcr80.dll)to(C:\Windows\system32\dgagent\Microsoft.VC80.CRT\msvcr80.dll)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\RemoveWorkingDirectory.exe)to(C:\Windows\system32\dgagent\RemoveWorkingDirectory.exe)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\ShowMix.xml)to(C:\Windows\system32\dgagent\ShowMix.xml)
+(04272) 10/11/2018 12:54:28.159 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\ShowMsg.exe)to(C:\Windows\system32\dgagent\ShowMsg.exe)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\spanish-name.txt)to(C:\Windows\system32\dgagent\spanish-name.txt)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\tmdlpe.ptn)to(C:\Windows\system32\dgagent\tmdlpe.ptn)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\TmDSMEngine.dll)to(C:\Windows\system32\dgagent\TmDSMEngine.dll)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\tmpeEnum.xml)to(C:\Windows\system32\dgagent\tmpeEnum.xml)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\UpgradeCleaner.exe)to(C:\Windows\system32\dgagent\UpgradeCleaner.exe)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info: ==> CreateService(DSASvc,00000000)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info: Agent push success!
+(04272) 10/11/2018 12:54:28.175 Dtool> Info: install 64bit device control only mode!!!!!
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\RemoveWorkingDirectory.exe)to(C:\Windows\system32\RemoveWorkingDirectory.exe)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\ShowMsg.exe)to(C:\Windows\system32\ShowMsg.exe)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\ShowMsg.xml)to(C:\Windows\system32\ShowMsg.xml)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\ShowMix.dll)to(C:\Windows\SysWOW64\ShowMix.dll)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\dgagent\x64\ShowMix.xml)to(C:\Windows\SysWOW64\ShowMix.xml)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info: Add OnlyDeviceCtrl configuration succeed!
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       remove(C:\Windows\system32\drivers\1330885.cab)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       remove(C:\Windows\system32\drivers\dlpnetfltr.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       remove(C:\Windows\system32\drivers\sakcd.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       remove(C:\Windows\system32\drivers\sakfile.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       remove(C:\Windows\system32\drivers\saknet.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\drivers\1330885.cab)to(C:\Windows\system32\drivers\1330885.cab)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\drivers\dlpnetfltr.sys)to(C:\Windows\system32\drivers\dlpnetfltr.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\drivers\sakcd.sys)to(C:\Windows\system32\drivers\sakcd.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\drivers\sakfile.sys)to(C:\Windows\system32\drivers\sakfile.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\System32\drivers\saknet.sys)to(C:\Windows\system32\drivers\saknet.sys)
+(04272) 10/11/2018 12:54:28.175 Dtool> Info: ==> CreateService(SAKFile,00000000)
+(04272) 10/11/2018 12:54:28.206 Dtool> Info:       remove(C:\Windows\system32\drivers\saknet.sys)
+(04272) 10/11/2018 12:54:28.206 Dtool> Info:       remove(C:\Windows\system32\drivers\dlpnetfltr.sys)
+(04272) 10/11/2018 12:54:28.206 Dtool> Info:       remove(C:\Windows\system32\drivers\sakcd.sys)
+(04272) 10/11/2018 12:54:28.206 Dtool> Info: Driver push success!
+(04272) 10/11/2018 12:54:28.206 Dtool> Info: DtoolManipulateDriverForDAC success!!!!
+(04272) 10/11/2018 12:54:28.206 Dtool> Info: dg_push_agent(localhost) installed service!
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: InitGlobalVars()@ln:949> Get package path = "C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\"
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: InitGlobalVars()@ln:956> Get ini path = "C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\dgPatch.ini"
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: InitGlobalVars()@ln:970> Get win dir = "C:\Windows", Set working dir = "C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64"
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: InitGlobalVars()@ln:972> Reading dgpatch.ini...
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: InitGlobalVars()@ln:976> g_strWorkingDirectoryEx = <C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64>
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: InitGlobalVars()@ln:977> g_strDgPatchIniPathEx = <C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\dgPatch.ini>
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: InitGlobalVars()@ln:978> g_strWinDirEx = <C:\Windows>
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: TmDlpeUpdateAgentEx()@ln:1159> OS Info: Major<10>, Minor<0>, Build<16299>
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: SlimPackage()@ln:937> find file C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\system32\dlpexaddin.x64.dll
+(04272) 10/11/2018 12:54:28.253 TmDlpUpdate> Info: SlimPackage()@ln:937> find file C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\system32\dlphook.x64.dll
+(04272) 10/11/2018 12:54:28.253 Dtool> Info:       remove(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\SysWOW64\dlpexaddin.x86.dll)
+(04272) 10/11/2018 12:54:28.253 Dtool> Info:       remove(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\SysWOW64\dlphook.x86.dll)
+(04272) 10/11/2018 12:54:28.269 TmDlpUpdate> Info: checkUpdatePackage()@ln:1101> File(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\system32\drivers\sakfile.sys) is not need update,remove it
+(04272) 10/11/2018 12:54:28.269 TmDlpUpdate> Info: TmDlpeUpdateAgentEx()@ln:1203> If copy_params->overwrite_ptn [false]
+(04272) 10/11/2018 12:54:28.269 TmDlpUpdate> Info: TmDlpeUpdateAgentEx()@ln:1215> No need to reboot, stop service.
+(04272) 10/11/2018 12:54:28.269 TmDlpUpdate> Info: TmDlpeUpdateAgentEx()@ln:1255> Copy files...
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       remove(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\system32\drivers\dlpnetfltr.sys)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       remove(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\system32\drivers\saknet.sys)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\browser_pattern.xml)to(C:\Windows\System32\dgagent\browser_pattern.xml)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\cme_vxe_dll.dll)to(C:\Windows\System32\dgagent\cme_vxe_dll.dll)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\DataDiscovery.exe)to(C:\Windows\System32\dgagent\DataDiscovery.exe)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dgagent\ShowMsg.exe)to(C:\Windows\System32\dgagent\dgagent\ShowMsg.exe)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpconverter_dt.dll)to(C:\Windows\System32\dgagent\dlpconverter_dt.dll)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\DlpDrvif.dll)to(C:\Windows\System32\dgagent\DlpDrvif.dll)
+(04272) 10/11/2018 12:54:28.269 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpexaddin.x64.dll)to(C:\Windows\System32\dgagent\dlpexaddin.x64.dll)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlphook.x64.dll)to(C:\Windows\System32\dgagent\dlphook.x64.dll)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\dlpwpdfltr.cat)to(C:\Windows\System32\dgagent\dlpwpdfltr\dlpwpdfltr.cat)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\dlpwpdfltr.inf)to(C:\Windows\System32\dgagent\dlpwpdfltr\dlpwpdfltr.inf)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\dlpwpdfltr.sys)to(C:\Windows\System32\dgagent\dlpwpdfltr\dlpwpdfltr.sys)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Vista.msu)to(C:\Windows\System32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Vista.msu)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Win2k-WinXP-Win2k3.exe)to(C:\Windows\System32\dgagent\dlpwpdfltr\WDFRedist\KMDF-1.9\Microsoft Kernel-Mode Driver Framework Install-v1.9-Win2k-WinXP-Win2k3.exe)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-Vista.msu)to(C:\Windows\System32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-Vista.msu)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-WinXP-Srv03.exe)to(C:\Windows\System32\dgagent\dlpwpdfltr\WDFRedist\UMDF-1.9\Microsoft User-Mode Driver Framework Install-v1.9-WinXP-Srv03.exe)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB.exe)to(C:\Windows\System32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB.exe)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB_1.9.msu)to(C:\Windows\System32\dgagent\dlpwpdfltr\WDFRedist\USBCoInstaller2\WinUSB_1.9.msu)
+(04272) 10/11/2018 12:54:28.284 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dsagent.exe)to(C:\Windows\System32\dgagent\dsagent.exe)
+(04272) 10/11/2018 12:54:28.300 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dsaverreg.dll)to(C:\Windows\System32\dgagent\dsaverreg.dll)
+(04272) 10/11/2018 12:54:28.300 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dtengine64.dll)to(C:\Windows\System32\dgagent\dtengine64.dll)
+(04272) 10/11/2018 12:54:28.300 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\dtoop.exe)to(C:\Windows\System32\dgagent\dtoop.exe)
+(04272) 10/11/2018 12:54:28.300 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\FileBackupRepo\System32\drivers\dlpnetfltr.sys)to(C:\Windows\System32\dgagent\FileBackupRepo\System32\drivers\dlpnetfltr.sys)
+(04272) 10/11/2018 12:54:28.300 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\FileBackupRepo\System32\drivers\saknet.sys)to(C:\Windows\System32\dgagent\FileBackupRepo\System32\drivers\saknet.sys)
+(04272) 10/11/2018 12:54:28.300 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\inetFtpParser.dll)to(C:\Windows\System32\dgagent\inetFtpParser.dll)
+(04272) 10/11/2018 12:54:28.300 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\inetHttpParser.dll)to(C:\Windows\System32\dgagent\inetHttpParser.dll)
+(04272) 10/11/2018 12:54:28.316 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan Client\dlplite\hotfix\x64\System32\dgagent\inetImAimParser.dll)to(C:\Windows\System32\dgagent\inetImAimParser.dll)
+(04272) 10/11/2018 12:54:28.316 Dtool> Info:       copy(C:\Program Files (x86)\Trend Micro\OfficeScan
